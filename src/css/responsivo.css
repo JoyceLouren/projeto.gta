@@ -1,0 +1,6 @@
+@media (max-width: 1024px){
+    .cabecalho{
+        justify-content: center;
+        flex-direction: column;
+    }
+    }
